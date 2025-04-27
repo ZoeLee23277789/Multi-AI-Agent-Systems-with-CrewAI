@@ -82,7 +82,7 @@ python app.py
 
 ## 📷 專案截圖
 
-```markdown
+```
 ![使用畫面截圖](screenshot.png)
 ```
 
